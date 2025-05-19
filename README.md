@@ -20,6 +20,7 @@ This project explores the relationship between digital device usage and mental h
 ### 2. 📊 Data Visualization with Tableau
 - Built interactive dashboards to explore the relationship between mental health and digital/lifestyle habits.
 - Implemented dynamic filtering by demographics (age group, gender).
+- Created a new age_category column.
 - Used calculated fields and parameters for flexible metric selection and comparison.
 
 ---
